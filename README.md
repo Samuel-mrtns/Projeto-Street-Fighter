@@ -1,10 +1,10 @@
 # 🕹️ **Street Fighter**
 Personalização do projeto oficial Pokédev desenvolvido no evento "Semana do Zero ao Programador Contratado", realizado pelos gêmeos Dev em Dobro. 
 
-![image](https://github.com/user-attachments/assets/60efa777-e273-4f9c-8bf6-004350e02902)
+![image](https://github.com/user-attachments/assets/c4eb918b-36ef-41dc-a986-2a9c63a5a533)
 
 ## 🚀 **Funcionalidades**
-- 🔄 Exibição dinâmica de cards
+- 🔄 Exibição dinâmica com animação para cada card
 - 🖱️ Navegação por clique e hover
 - 📜 Informações personalizadas sobre cada fighter
 
