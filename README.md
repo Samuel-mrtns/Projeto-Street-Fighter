@@ -10,7 +10,7 @@ Personalização do projeto oficial Pokédev desenvolvido no evento "Semana do Z
 
 ## **O que você pode fazer?**
 - 🧭 **Navegue pelos cards**: Descubra novos fighters a cada clique!
-- 🔍 **Explore os cards**: Conheça as habilidades de cada fighter.
+- 🔍 **Explore os cards**: Conheça as características de cada fighter.
 
 ## 💻 **Tecnologias utilizadas**:
 - 🏗️ **HTML5**: A estrutura da página.
